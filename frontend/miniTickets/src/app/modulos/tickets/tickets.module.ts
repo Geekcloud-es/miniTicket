@@ -7,7 +7,6 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { TicketsRoutingModule } from './tickets-routing.module';
 
 
-
 @NgModule({
   declarations: [ViewComponent, LoadComponent],
   imports: [
